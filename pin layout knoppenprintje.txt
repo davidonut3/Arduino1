@@ -1,0 +1,43 @@
+titel:			pin layout knoppenprintje
+onderwerp:	Groevenbeek stage
+project:		<project>
+auteur:			Martin
+datum:			03-jul-2026
+
+
+==== pin layout knoppen ====
+De pinnen van links naar rechts:
+pin  1 - not connected
+pin  2 - knop 'source'
+pin  3 - knop 'right'
+pin  4 - knop 'left'
+pin  5 - knop 'menu'
+pin  6 - GND
+pin  7 - led rood
+pin  8 - led groen
+pin  9 - knop 'power'
+
+NIET AANGESLOTEN:
+
+pin 10 - GND
+pin 11 - not connected
+pin 12 - not connected
+
+Grote connector:
+
+GND - pin 6
+D2  - pin 9
+D3  - pin 5
+D4  - pin 4
+D5  - pin 8 (LED PWM)
+D6  - pin 7 (LED PWM)
+D7  - pin 3
+D8  - pin 2
+
+==== pin layout nano ====
+
+Opmerking: bij de zes pinnetjes kloppen plaatjes op het internet soms niet,
+met de microcontroller naar je toe en de usb omhoog, zit gnd rechtsboven en 5v linksboven
+
+A0-A7 zijn analog inputs, niet analog outputs
+De analog outputs zijn D3, D5, D6, D9, D10, D11
