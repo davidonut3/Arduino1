@@ -2,22 +2,42 @@ Stap 1: Wifi + arduino IDE + libraries + uitleg.
 
 Stap 2: Gebruik het blink project om te kijken of de arduino werkt.
 
+	Bekijk de code en probeer te begrijpen hoe de code werkt.
+	Kun je het LEDje elke 2 seconden laten veranderen ipv 1 seconde?
+	Kun je het LEDje elke keer eerst 3 seconden uitlaten, dan 1 seconde aan?
+
 Stap 3: Sluit de buzzer aan op de arduino, één draad op een GND, en de andere op een pin, bij voorkeur A7.
 
 Stap 4: Gebruik het buzzer project om geluiden te maken met de buzzer.
 
-Muziek:
-https://www.build-electronic-circuits.com/arduino-buzzer/
+	Muziek:
+	https://www.build-electronic-circuits.com/arduino-buzzer/
 
-Sound effects:
-https://zbotic.in/arduino-sound-effects-generator-buzzer-melodies-and-tones/?srsltid=AfmBOoqZpbyZ3w8E-b8MnIFr1h8XxsWIVb7Y3bE0EKtQxauVE3__mgKB
+	Sound effects:
+	https://zbotic.in/arduino-sound-effects-generator-buzzer-melodies-and-tones/?srsltid=AfmBOoqZpbyZ3w8E-b8MnIFr1h8XxsWIVb7Y3bE0EKtQxauVE3__mgKB
+
+	Bekijk de code en probeer te begrijpen hoe de code werkt.
+	Kun je zelf een sound effect bedenken?
+	Kun je zelf een muziekje maken?
+	Kun je het starwars deuntje verbeteren?
 
 Stap 5: Sluit de knoppen aan op de arduino, zie hiervoor 'pin layout knoppenprintje.txt'.
 
 Stap 6: Gebruik het buttons project om het LEDje en/of de buzzer aan te sturen.
 
+	Bekijk de code en probeer te begrijpen hoe de code werkt.
+	Kun je een mini-orgel maken?
+	Kun je de volgende game maken: 
+
+	Het LEDje begint op z'n felst, en wordt steeds minder fel.
+	Als je geen knop indrukt voordat het LEDje uit staat, verlies je.
+	Als je wel een knop indrukt, krijg je meer punten naarmate je dichter bij nul zit.
+
 Stap 7: Sluit de LED matrix aan, zie 'https://www.makerguides.com/max7219-led-dot-matrix-display-arduino-tutorial/'.
 
 Stap 8: Gebruik het matrix project om text en sprites te tonen.
+
+	Bekijk de code en probeer te begrijpen hoe de code werkt.
+	Kun je de tekst van een knop laten zien als die knop wordt ingedrukt?
 
 Stap 9: Gebruik de knoppen, de buzzer en de matrix samen in één project (zie project game).
